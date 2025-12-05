@@ -1,2 +1,2 @@
 # AryNews-Clone <br>
-This is Abdul rehman
+This is Abdul rehman as software 
